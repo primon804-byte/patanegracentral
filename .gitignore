@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Pasta de arquivos pessoais (não faz parte do projeto)
+d/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
